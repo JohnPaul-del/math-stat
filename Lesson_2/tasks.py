@@ -54,9 +54,7 @@ print(f"{'.'*20} Task 4 {'.'*20}\n"
       f"One of them is white: {situation_3}\n")
 
 """
-RESULT
-
-.................... Task 1 ....................
+>>> .................... Task 1 ....................
 Sniper: 0.048061793700746355
 
 
@@ -72,5 +70,4 @@ Two would be bad bad: 0.2706705664732254
 All balls are white: 0.3054545454545454
 Two of four are white: 0.008484848484848482
 One of them is white: 0.9987878787878788
-
 """
